@@ -1,3 +1,4 @@
+// App.jsx - configured routing with lazy loading and theme provider
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
 import { AuthProvider } from './context/AuthContext';

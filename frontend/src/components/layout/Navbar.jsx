@@ -1,3 +1,4 @@
+// Navbar - updated responsive breakpoints and improved accessibility labels
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext';
 import { useCity } from '../../context/CityContext';
